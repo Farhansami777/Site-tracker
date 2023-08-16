@@ -1,0 +1,50 @@
+
+body{
+    background: rgb(233, 234, 240);
+    min-width: 250px;
+    min-height: 10px;
+    margin: 0px;
+    padding: 10px;
+   
+}
+
+#btn{
+    background-color: goldenrod;
+    color:white;
+    margin: 10px 5px;
+    border-radius: 10px;
+}
+
+#btn2{
+    background-color: blue;
+    color:white;
+    margin: 10px 5px;
+    border-radius: 10px;
+}
+
+#text{
+    width: 300px;
+}
+
+#btn3
+{
+    background: red;
+    color: white;
+    border-radius: 10px;
+}
+
+#list
+{
+  list-style: none;
+}
+
+.link {
+
+    color: blue;
+    padding: 1px;
+
+
+}
+      
+
+
